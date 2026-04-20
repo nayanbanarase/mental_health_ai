@@ -1,8 +1,7 @@
 fer
 opencv-python-headless
 speechrecognition
-moviepy==1.0.3
-tensorflow-cpu
 transformers
 torch
 torchvision
+moviepy

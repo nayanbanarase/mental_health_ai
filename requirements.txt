@@ -4,4 +4,5 @@ speechrecognition
 transformers
 torch
 torchvision
-moviepy==1.0.3
+moviepy
+tensorflow

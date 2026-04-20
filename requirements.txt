@@ -4,3 +4,5 @@ opencv_python==4.13.0.92
 speechrecognition==3.16.0
 transformers==5.5.4
 torch
+torchvision
+opencv-python-headless

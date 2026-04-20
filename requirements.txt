@@ -1,7 +1,6 @@
-fer==22.4.0
-opencv-contrib-python==4.11.0.86
-speechrecognition==3.16.0
-transformers==5.5.4
+fer
+opencv-python-headless
+speechrecognition
+transformers
 torch
 torchvision
-opencv-python-headless

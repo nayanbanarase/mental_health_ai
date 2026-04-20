@@ -4,4 +4,3 @@ speechrecognition
 transformers
 torch
 torchvision
-moviepy

@@ -1,5 +1,4 @@
-fer 
-moviepy
+fer
 opencv-python-headless
 speechrecognition
 transformers

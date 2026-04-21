@@ -35,7 +35,7 @@ if st.button("Analyze My State"):
         with st.spinner('Analyzing your voice and facial cues...'):
             # Run your analysis functions
             text_emo = analyze_text(user_text)
-            voice_emo = analyze_text(analyze_voice()) # Assuming voice returns text
+            voice_emo = analyze_voice() # Assuming voice returns text
             face_emo = analyze_face()
 
             # Result logic

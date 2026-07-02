@@ -1,0 +1,48 @@
+Mental-Health-Detection-System/
+│
+├── README.md                      # Project documentation
+├── requirements.txt               # Python dependencies
+├── LICENSE                        # License file (optional)
+├── .gitignore                     # Ignore unnecessary files
+│
+├── main.py                        # Main application
+│
+├── models/                        # AI Models
+│   ├── text_model.py
+│   ├── voice_model.py
+│   ├── face_model.py
+│   └── decision_model.py
+│
+├── utils/                         # Helper functions
+│   ├── preprocessing.py
+│   ├── file_handler.py
+│   └── constants.py
+│
+├── data/                          # Dataset (if any)
+│   ├── text/
+│   ├── audio/
+│   └── images/
+│
+├── reports/                       # Generated reports
+│   ├── report.txt
+│   └── report.pdf
+│
+├── screenshots/                   # Screenshots for GitHub
+│   ├── home.png
+│   ├── text_analysis.png
+│   ├── voice_analysis.png
+│   ├── face_analysis.png
+│   └── final_result.png
+│
+├── assets/                        # Images, icons, logo
+│   ├── logo.png
+│   └── banner.png
+│
+├── docs/                          # IEEE report and presentation
+│   ├── Project_Report.pdf
+│   ├── Presentation.pptx
+│   └── Architecture.png
+│
+└── output/                        # Output files
+    ├── result.txt
+    └── prediction.json
